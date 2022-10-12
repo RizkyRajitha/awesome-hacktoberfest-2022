@@ -10,12 +10,16 @@
 
 ## Contents
 
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
-- [Repositories Coding for Beginners](#repositories-coding-for-beginners)
-- [Guides and Resources](#guides-and-resources)
-- [Cli Tools](#cli-tools)
-- [Cheat sheets](#cheat-sheets)
-- [Meetups and Events](#meetups-and-events)
+- [Awesome Hacktoberfest 2022 ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacktoberfest-2022-)
+  - [Contents](#contents)
+  - [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
+  - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
+  - [Repositories for intermediate/Advanced Coders](#repositories-for-intermediateadvanced-coders)
+  - [Guides and Resources](#guides-and-resources)
+  - [CLI Tools](#cli-tools)
+  - [Cheat sheets](#cheat-sheets)
+  - [Meetups and Events](#meetups-and-events)
+  - [License](#license)
 
 ## Repositories Supporting First-Timers
 
@@ -121,7 +125,7 @@
 - [Ultimate-Web-Development resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
 - [Usefull C programming Codes](https://github.com/tushar-kumar/MyCodes/tree/main/C)
 - [CodeAck](https://github.com/Rahilsiddique/codeAck)
-
+- [Linkin](https://github.com/RizkyRajitha/linkin)
 
 ## Repositories for intermediate/Advanced Coders
 
